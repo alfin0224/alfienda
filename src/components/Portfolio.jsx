@@ -44,13 +44,13 @@ const Portfolio = () => {
     {
       id: 6,
       src: kesbangpol,
-      link: 'https://github.com/alfin0224/kesbangpol.git',
+      link: '#',
       demo: 'https://kesbangpol.papuabaratprov.go.id'
     },
     {
       id: 7,
       src: sitanda,
-      link: 'https://github.com/alfin0224/sitanda.git',
+      link: '#',
       demo: 'https://sitanda.papuabaratprov.go.id'
     },
     {

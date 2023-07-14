@@ -5,6 +5,7 @@ import css from "../assets/css.png";
 import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import expressjs from "../assets/expressjs.png";
+import typescript from "../assets/typescript.png";
 import graphql from "../assets/graphql.png";
 import sequelize from "../assets/sequelize.png";
 import laravel from "../assets/laravel.png";
@@ -59,6 +60,12 @@ const Experience = () => {
       src: expressjs,
       title: "Express JS",
       style: "shadow-green-700",
+    },
+    {
+      id: 8,
+      src: typescript,
+      title: "Typescript",
+      style: "shadow-blue-700",
     },
     {
       id: 9,

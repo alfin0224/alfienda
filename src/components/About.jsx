@@ -15,9 +15,10 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-6">
-          &nbsp; &nbsp; &nbsp; I was born in Banyumas, Central Java, Indonesia on February 24, 1997, I am the first child of 4 siblings, 
-          the first time I became interested in the world of information technology was when I entered vocational high school at SMK TELKOM Purwokerto. 
-          I studied for 3 years. After I graduated from vocational high school, I continued my education at the Islamic University of Indonesia majoring in informatics engineering for 4 years and I graduated.
+          &nbsp; &nbsp; &nbsp; I was born in Banyumas, Central Java, Indonesia on February 24, 1997.
+            The first time I started to focus on learning information technology was when I started school at SMK TELKOM, Purwokerto and I graduated from school after studying for 3 years.
+            After I graduated from Vocational High School, I still focused on learning IT by continuing my education at the Indonesian Islamic University majoring in informatics engineering 
+            and I graduated from college after studying for 4 years.
         </p>
         <br />
 
