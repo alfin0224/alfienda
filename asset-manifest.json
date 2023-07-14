@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e1209b1a.css",
-    "main.js": "/static/js/main.db901681.js",
+    "main.css": "/static/css/main.46897607.css",
+    "main.js": "/static/js/main.859ca286.js",
     "static/media/egov.png": "/static/media/egov.24dec956ef057e9dde86.png",
     "static/media/data-sektoral.png": "/static/media/data-sektoral.ca768116133ce1e0d56c.png",
     "static/media/rspa.jpeg": "/static/media/rspa.9df6ea10cd5477c611f1.jpeg",
@@ -15,6 +15,7 @@
     "static/media/kesbangpol.png": "/static/media/kesbangpol.5665ce369194c6598699.png",
     "static/media/sequelize.png": "/static/media/sequelize.ef52e237a89b42c19dd9.png",
     "static/media/material-ui.png": "/static/media/material-ui.a79ad2034bd3ff640cab.png",
+    "static/media/typescript.png": "/static/media/typescript.c8c3f122765cf69ede70.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/bootstrap5.png": "/static/media/bootstrap5.cd272f8029388703a2b6.png",
     "static/media/laravel.png": "/static/media/laravel.279e3fcb19d440713887.png",
@@ -26,11 +27,11 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/expressjs.png": "/static/media/expressjs.8f912e6eff277ae16489.png",
     "index.html": "/index.html",
-    "main.e1209b1a.css.map": "/static/css/main.e1209b1a.css.map",
-    "main.db901681.js.map": "/static/js/main.db901681.js.map"
+    "main.46897607.css.map": "/static/css/main.46897607.css.map",
+    "main.859ca286.js.map": "/static/js/main.859ca286.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1209b1a.css",
-    "static/js/main.db901681.js"
+    "static/css/main.46897607.css",
+    "static/js/main.859ca286.js"
   ]
 }
