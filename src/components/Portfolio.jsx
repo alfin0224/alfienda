@@ -31,33 +31,33 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: rspa,
-      link: 'https://github.com/alfin0224/rspa.git',
-      demo: '#'
-    },
-    {
-      id: 5,
       src: dataSektoral,
       link: 'https://github.com/alfin0224/data-sektoral.git',
       demo: '#'
     },
     {
-      id: 6,
+      id: 5,
       src: kesbangpol,
       link: '#',
       demo: 'https://kesbangpol.papuabaratprov.go.id'
     },
     {
-      id: 7,
+      id: 6,
       src: sitanda,
       link: '#',
       demo: 'https://sitanda.papuabaratprov.go.id'
     },
     {
-      id: 8,
+      id: 7,
       src: egov,
       link: '#',
       demo: 'https://egovernment.papuabaratprov.go.id/landing/'
+    },
+    {
+      id: 8,
+      src: rspa,
+      link: 'https://github.com/alfin0224/rspa.git',
+      demo: '#'
     },
   ];
 
