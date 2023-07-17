@@ -1,63 +1,106 @@
 import React from "react";
-import ppid from "../assets/portfolio/ppid.png"
-import sitanda from "../assets/portfolio/sitanda.png"
-import sikampung from "../assets/portfolio/sikampung.png"
-import rspa from "../assets/portfolio/rspa.jpeg"
-import kesbangpol from "../assets/portfolio/kesbangpol.png"
-import dataSektoral from "../assets/portfolio/data-sektoral.png"
-import egov from "../assets/portfolio/egov.png"
-import sefeo from "../assets/portfolio/sefeo.png"
+import rspa from "../assets/portfolio/rspa-porto.png";
+import egov from "../assets/portfolio/egov-porto.png";
+import ppid from "../assets/portfolio/ppid-porto.png";
+import sitanda from "../assets/portfolio/sitanda-porto.png";
+import setda from "../assets/portfolio/setda-porto.png";
+import dprd from "../assets/portfolio/dprd-porto.png";
+import sikm from "../assets/portfolio/sikm-porto.png";
+import kesbangpol from "../assets/portfolio/kesbangpol-porto.png";
+import dataSektoral from "../assets/portfolio/data-sektoral-porto.png";
+import sikampung from "../assets/portfolio/sikampung-porto.png";
+import digitalOffice from "../assets/portfolio/digital-office-porto.png";
+import sniper from "../assets/portfolio/sniper-porto.png";
+import bumdes from "../assets/portfolio/bumdes-porto.png";
+import sefeo from "../assets/portfolio/sefeo-porto.png";
 
 const Portfolio = () => {
   const portfolios = [
+    
     {
       id: 1,
       src: sefeo,
-      link: '#',
-      demo: '#'
+      be: "Node Express",
+      fe: "ReactJS"
+
     },
     {
       id: 2,
-      src: ppid,
-      link: 'https://github.com/alfin0224/ppid.git',
-      demo: 'https://ppid.papuabaratprov.go.id'
-      
+      src: bumdes,
+      be: "PHP",
+      fe: "Bootstrap"
     },
     {
       id: 3,
-      src: sikampung,
-      link: '#',
-      demo: 'https://sikampung.papuabaratprov.go.id'
+      src: sniper,
+      be: "PHP",
+      fe: "Bootstrap"
     },
     {
       id: 4,
-      src: dataSektoral,
-      link: 'https://github.com/alfin0224/data-sektoral.git',
-      demo: '#'
+      src: digitalOffice,
+      be: "PHP",
+      fe: "Bootstrap"
     },
     {
       id: 5,
-      src: kesbangpol,
-      link: '#',
-      demo: 'https://kesbangpol.papuabaratprov.go.id'
+      src: sikampung,
+      be: "PHP",
+      fe: "Bootstrap"
     },
     {
       id: 6,
-      src: sitanda,
-      link: '#',
-      demo: 'https://sitanda.papuabaratprov.go.id'
+      src: dataSektoral,
+      be: "PHP",
+      fe: "Bootstrap"
     },
     {
       id: 7,
-      src: egov,
-      link: '#',
-      demo: 'https://egovernment.papuabaratprov.go.id/landing/'
+      src: sikm,
+      be: "PHP",
+      fe: "Bootstrap"
     },
     {
       id: 8,
+      src: dprd,
+      be: "PHP",
+      fe: "Bootstrap"
+    },
+    {
+      id: 9,
+      src: setda,
+      be: "PHP",
+      fe: "Bootstrap"
+    },
+    {
+      id: 10,
+      src: kesbangpol,
+      be: "PHP",
+      fe: "Bootstrap"
+    },
+    {
+      id: 11,
+      src: ppid,
+      be: "PHP",
+      fe: "Bootstrap"
+    },
+    {
+      id: 12,
+      src: sitanda,
+      be: "PHP",
+      fe: "Bootstrap"
+    },
+    {
+      id: 13,
+      src: egov,
+      be: "PHP",
+      fe: "Bootstrap"
+    },
+    {
+      id: 14,
       src: rspa,
-      link: 'https://github.com/alfin0224/rspa.git',
-      demo: '#'
+      be: "PHP",
+      fe: "Bootstrap"
     },
   ];
 
@@ -75,7 +118,7 @@ const Portfolio = () => {
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-          {portfolios.map(({ id, src, link, demo }) => (
+          {portfolios.map(({ id, src, be, fe }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
@@ -83,8 +126,8 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-              <a href={demo} target="_blank" className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" rel="noreferrer">Demo</a>
-              <a href={link} target="_blank" className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" rel="noreferrer">Code</a>
+              <span className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" rel="noreferrer">{be}</span>
+              <span className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" rel="noreferrer">{fe}</span>
               </div>
             </div>
           ))}
