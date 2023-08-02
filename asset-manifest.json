@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.af7c8970.css",
-    "main.js": "/static/js/main.2ecbedd2.js",
+    "main.js": "/static/js/main.b98c7d71.js",
     "static/media/postgresql.png": "/static/media/postgresql.1b904635aedb7c19150d.png",
+    "static/media/heroImage.jpg": "/static/media/heroImage.97b4e1e6045e6de888ec.jpg",
     "static/media/rspa-porto.png": "/static/media/rspa-porto.cf2268fee7eb8ed189d7.png",
     "static/media/dprd-porto.png": "/static/media/dprd-porto.63bcf70e8f9136112226.png",
     "static/media/sefeo-porto.png": "/static/media/sefeo-porto.04aa0789acaaab122b6c.png",
     "static/media/kesbangpol-porto.png": "/static/media/kesbangpol-porto.0d8d13e2cdfa56271990.png",
-    "static/media/heroImage.jpg": "/static/media/heroImage.7ab4c9a4d215db434085.jpg",
     "static/media/sikampung-porto.png": "/static/media/sikampung-porto.8170c3b1a8af79ac4bf4.png",
     "static/media/sniper-porto.png": "/static/media/sniper-porto.eb42679d77269a6e9dff.png",
     "static/media/digital-office-porto.png": "/static/media/digital-office-porto.a2cec43401a8c832e596.png",
@@ -35,10 +35,10 @@
     "static/media/expressjs.png": "/static/media/expressjs.8f912e6eff277ae16489.png",
     "index.html": "/index.html",
     "main.af7c8970.css.map": "/static/css/main.af7c8970.css.map",
-    "main.2ecbedd2.js.map": "/static/js/main.2ecbedd2.js.map"
+    "main.b98c7d71.js.map": "/static/js/main.b98c7d71.js.map"
   },
   "entrypoints": [
     "static/css/main.af7c8970.css",
-    "static/js/main.2ecbedd2.js"
+    "static/js/main.b98c7d71.js"
   ]
 }
