@@ -15,7 +15,7 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-200 py-4 max-w-md">
-          I have 4 years of experience in building and designing software. Currently, I love working on web applications using technologies like ReactJS, Tailwind CSS, Bootstrap, NodeJS, ExpressJS, NestJS Laravel, CodeIgniter, PostgreSQL, MySQL, and MongoDB
+          I have 4 years of experience in building and designing software. Currently, I love working on web applications using technologies like ReactJS, Tailwind CSS, Bootstrap, NodeJS, ExpressJS, NestJS, Laravel, CodeIgniter, PostgreSQL, MySQL, and MongoDB
           </p>
 
           <div>

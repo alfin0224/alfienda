@@ -16,6 +16,7 @@ import mysql from "../assets/mysql.png";
 import postgresql from "../assets/postgresql.png";
 import bulma from "../assets/bulma.png";
 import bootstrap5 from "../assets/bootstrap5.png";
+import nestjs from "../assets/nestjs.png";
 
 const Experience = () => {
   const techs = [
@@ -51,74 +52,80 @@ const Experience = () => {
     },
     {
       id: 6,
+      src: nestjs,
+      title: "Nest JS",
+      style: "shadow-red-600",
+    },
+    {
+      id: 7,
       src: typescript,
       title: "Typescript",
       style: "shadow-blue-500",
     },
     {
-      id: 7,
+      id: 8,
       src: graphql,
       title: "GraphQL",
       style: "shadow-pink-500",
     },
     {
-      id: 8,
+      id: 9,
 
       src: materialUI,
       title: "Material UI",
       style: "shadow-sky-600",
     },
     {
-      id: 9,
+      id: 10,
       src: tailwind,
       title: "Tailwind",
       style: "shadow-sky-400",
     },
     {
-      id: 10,
+      id: 11,
       src: bootstrap5,
       title: "Bootstrap 5",
       style: "shadow-purple-700",
     },
     {
-      id: 11,
+      id: 12,
       src: mysql,
       title: "MySQL",
       style: "shadow-blue-900",
     },
     {
-      id: 12,
+      id: 13,
       src: postgresql,
       title: "PostgreSQL",
       style: "shadow-blue-800",
     },
     {
-      id: 13,
+      id: 14,
       src: sequelize,
       title: "Sequelize",
       style: "shadow-blue-400",
     },
     {
-      id: 14,
+      id: 15,
       src: gitlab,
       title: "GitLab",
       style: "shadow-orange-500",
     },
     {
-      id: 15,
+      id: 16,
       src: laravel,
       title: "Laravel",
       style: "shadow-orange-800",
     },
     {
-      id: 16,
+      id: 17,
       src: codeigniter,
       title: "CodeIgniter",
       style: "shadow-orange-700",
 
     },
     {
-      id: 17,
+      id: 18,
       src: bulma,
       title: "Bulma CSS",
       style: "shadow-green-600",
