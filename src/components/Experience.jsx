@@ -21,6 +21,7 @@ import bootstrap5 from "../assets/bootstrap5.png";
 import nestjs from "../assets/nestjs.png";
 import heroku from "../assets/heroku.png";
 import netlify from "../assets/netlify.png";
+import railway from "../assets/railway-logo.png";
 
 const Experience = () => {
   const techs = [
@@ -156,6 +157,12 @@ const Experience = () => {
       src: netlify,
       title: "Netlify",
       style: "shadow-green-300",
+    },
+    {
+      id: 23,
+      src: railway,
+      title: "Railway",
+      style: "shadow-gray-400",
     },
   ];
 
