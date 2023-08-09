@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4070c140.css",
-    "main.js": "/static/js/main.286560df.js",
+    "main.css": "/static/css/main.70dec420.css",
+    "main.js": "/static/js/main.f4ee0cac.js",
     "static/media/postgresql.png": "/static/media/postgresql.1b904635aedb7c19150d.png",
     "static/media/heroImage.jpg": "/static/media/heroImage.97b4e1e6045e6de888ec.jpg",
     "static/media/dprd-porto.png": "/static/media/dprd-porto.b64b88741c5f25a04a9a.png",
@@ -28,6 +28,7 @@
     "static/media/sequelize.png": "/static/media/sequelize.ef52e237a89b42c19dd9.png",
     "static/media/material-ui.png": "/static/media/material-ui.a79ad2034bd3ff640cab.png",
     "static/media/pertamina-porto.png": "/static/media/pertamina-porto.025f4a453562816d2c84.png",
+    "static/media/railway-logo.png": "/static/media/railway-logo.51276f3c92b28a23f81d.png",
     "static/media/typescript.png": "/static/media/typescript.c8c3f122765cf69ede70.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/bootstrap5.png": "/static/media/bootstrap5.cd272f8029388703a2b6.png",
@@ -41,11 +42,11 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/expressjs.png": "/static/media/expressjs.8f912e6eff277ae16489.png",
     "index.html": "/index.html",
-    "main.4070c140.css.map": "/static/css/main.4070c140.css.map",
-    "main.286560df.js.map": "/static/js/main.286560df.js.map"
+    "main.70dec420.css.map": "/static/css/main.70dec420.css.map",
+    "main.f4ee0cac.js.map": "/static/js/main.f4ee0cac.js.map"
   },
   "entrypoints": [
-    "static/css/main.4070c140.css",
-    "static/js/main.286560df.js"
+    "static/css/main.70dec420.css",
+    "static/js/main.f4ee0cac.js"
   ]
 }
