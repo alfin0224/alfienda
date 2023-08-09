@@ -25,7 +25,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-        &nbsp; &nbsp; &nbsp; I have a passion for building beautiful, modern websites to meet needs and solve problems in business processes. I am a forward-thinking and curiosity-driven web developer, offering more than 4 years of experience in web development by writing clean, efficient, reusable, and reliable code for various business processes. Some of my notable projects include Pertamina RU IV Cilacap, Halfway House for Children with Cancer and Blood Disorders, various provincial government systems, and the Sefeo English Community.
+        &nbsp; &nbsp; &nbsp; I have a passion for building beautiful, modern websites to meet needs and solve problems in business processes. I am a forward-thinking and curiosity-driven web developer, offering more than 4 years of experience in web development by writing clean, efficient, reusable, and reliable code for various business processes. Some of my notable projects include Pertamina RU IV Cilacap, Halfway House for Children with Cancer and Blood Disorders, Various provincial government systems, and the Sefeo English Community System.
         </p>
       </div>
     </div>

@@ -9,13 +9,13 @@ const Home = () => {
       name="home"
       className="h-screen w-full bg-gradient-to-t from-cyan-500 to-cyan-900 to-gray-900 pt-10"
     >
-      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-7 py-6 md:flex-row">
+      <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-7 py-6 md:flex-row lg:text-2xl">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-200 py-4 max-w-md">
-          I have 4 years of experience in building and designing software. Currently, I love working on web applications using technologies like ReactJS, Tailwind CSS, Bootstrap, NodeJS, ExpressJS, NestJS, Laravel, CodeIgniter, PostgreSQL, MySQL, and MongoDB
+          I have over 4 years of experience in building and designing software. Currently, I love working on web applications using technologies like React JS, Tailwind CSS, Bootstrap CSS, Node JS, Express JS, Nest JS, Laravel, CodeIgniter, PostgreSQL, MySQL, and MongoDB.
           </p>
 
           <div>
@@ -36,7 +36,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full"
+            className="rounded-2xl mx-auto w-2/3 md:w-full lg:w-2xl"
           />
         </div>
       </div>

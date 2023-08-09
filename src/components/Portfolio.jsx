@@ -1,6 +1,9 @@
 import React from "react";
+import pertamina from "../assets/portfolio/pertamina-porto.png";
 import rspa from "../assets/portfolio/rspa-porto.png";
-import egov from "../assets/portfolio/egov-porto.png";
+import eplanning from "../assets/portfolio/e-planning-porto.png";
+import ebudgeting from "../assets/portfolio/e-budgeting-porto.png";
+import emusrenbang from "../assets/portfolio/e-musrenbang-porto.png";
 import ppid from "../assets/portfolio/ppid-porto.png";
 import sitanda from "../assets/portfolio/sitanda-porto.png";
 import setda from "../assets/portfolio/setda-porto.png";
@@ -92,13 +95,31 @@ const Portfolio = () => {
     },
     {
       id: 13,
-      src: egov,
+      src: eplanning,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
       id: 14,
+      src: emusrenbang,
+      be: "PHP",
+      fe: "Bootstrap"
+    },
+    {
+      id: 15,
+      src: ebudgeting,
+      be: "PHP",
+      fe: "Bootstrap"
+    },
+    {
+      id: 16,
       src: rspa,
+      be: "PHP",
+      fe: "Bootstrap"
+    },
+    {
+      id: 16,
+      src: pertamina,
       be: "PHP",
       fe: "Bootstrap"
     },

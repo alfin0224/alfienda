@@ -9,14 +9,18 @@ import graphql from "../assets/graphql.png";
 import sequelize from "../assets/sequelize.png";
 import laravel from "../assets/laravel.png";
 import codeigniter from "../assets/codeigniter.png";
+import wordpress from "../assets/wordpress.png";
 import gitlab from "../assets/gitlab.png";
 import tailwind from "../assets/tailwind.png";
 import materialUI from "../assets/material-ui.png";
 import mysql from "../assets/mysql.png";
 import postgresql from "../assets/postgresql.png";
+import mongodb from "../assets/mongoDB.png";
 import bulma from "../assets/bulma.png";
 import bootstrap5 from "../assets/bootstrap5.png";
 import nestjs from "../assets/nestjs.png";
+import heroku from "../assets/heroku.png";
+import netlify from "../assets/netlify.png";
 
 const Experience = () => {
   const techs = [
@@ -41,7 +45,7 @@ const Experience = () => {
     {
       id: 4,
       src: reactImage,
-      title: "React",
+      title: "React JS",
       style: "shadow-blue-600",
     },
     {
@@ -70,7 +74,6 @@ const Experience = () => {
     },
     {
       id: 9,
-
       src: materialUI,
       title: "Material UI",
       style: "shadow-sky-600",
@@ -78,57 +81,81 @@ const Experience = () => {
     {
       id: 10,
       src: tailwind,
-      title: "Tailwind",
+      title: "Tailwind CSS",
       style: "shadow-sky-400",
     },
     {
       id: 11,
       src: bootstrap5,
-      title: "Bootstrap 5",
+      title: "Bootstrap CSS",
       style: "shadow-purple-700",
     },
     {
       id: 12,
-      src: mysql,
-      title: "MySQL",
-      style: "shadow-blue-900",
+      src: bulma,
+      title: "Bulma CSS",
+      style: "shadow-green-600",
     },
     {
       id: 13,
-      src: postgresql,
-      title: "PostgreSQL",
-      style: "shadow-blue-800",
-    },
-    {
-      id: 14,
-      src: sequelize,
-      title: "Sequelize",
-      style: "shadow-blue-400",
-    },
-    {
-      id: 15,
       src: gitlab,
       title: "GitLab",
       style: "shadow-orange-500",
     },
     {
-      id: 16,
+      id: 14,
       src: laravel,
       title: "Laravel",
       style: "shadow-orange-800",
     },
     {
-      id: 17,
+      id: 15,
       src: codeigniter,
       title: "CodeIgniter",
       style: "shadow-orange-700",
 
     },
     {
+      id: 16,
+      src: wordpress,
+      title: "Wordpress",
+      style: "shadow-blue-300",
+    },
+    {
+      id: 17,
+      src: mysql,
+      title: "MySQL",
+      style: "shadow-blue-500",
+    },
+    {
       id: 18,
-      src: bulma,
-      title: "Bulma CSS",
-      style: "shadow-green-600",
+      src: postgresql,
+      title: "PostgreSQL",
+      style: "shadow-blue-500",
+    },
+    {
+      id: 19,
+      src: mongodb,
+      title: "MongoDB",
+      style: "shadow-green-800",
+    },
+    {
+      id: 20,
+      src: sequelize,
+      title: "Sequelize",
+      style: "shadow-blue-400",
+    },
+    {
+      id: 21,
+      src: heroku,
+      title: "Heroku",
+      style: "shadow-purple-800",
+    },
+    {
+      id: 22,
+      src: netlify,
+      title: "Netlify",
+      style: "shadow-green-300",
     },
   ];
 
