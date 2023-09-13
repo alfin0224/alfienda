@@ -11,10 +11,12 @@ import dprd from "../assets/portfolio/dprd-porto.png";
 import sikm from "../assets/portfolio/sikm-porto.png";
 import kesbangpol from "../assets/portfolio/kesbangpol-porto.png";
 import dataSektoral from "../assets/portfolio/data-sektoral-porto.png";
+import catalog from "../assets/portfolio/e-catalog.jpg";
 import sikampung from "../assets/portfolio/sikampung-porto.png";
 import digitalOffice from "../assets/portfolio/digital-office-porto.png";
 import sniper from "../assets/portfolio/sniper-porto.png";
 import bumdes from "../assets/portfolio/bumdes-porto.png";
+import potensial from "../assets/portfolio/potensial-village.jpg";
 import sefeo from "../assets/portfolio/sefeo-porto.png";
 
 const Portfolio = () => {
@@ -23,102 +25,114 @@ const Portfolio = () => {
     {
       id: 1,
       src: sefeo,
-      be: "Node Express",
-      fe: "ReactJS"
+      be: "Express JS",
+      fe: "React JS"
 
     },
     {
       id: 2,
+      src: potensial,
+      be: "Express JS",
+      fe: "React JS"
+    },
+    {
+      id: 3,
       src: bumdes,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 3,
+      id: 4,
       src: sniper,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 4,
+      id: 5,
       src: digitalOffice,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 5,
+      id: 6,
       src: sikampung,
       be: "PHP",
-      fe: "Bootstrap"
+      fe: "Vue JS"
     },
     {
-      id: 6,
+      id: 7,
+      src: catalog,
+      be: "Express JS",
+      fe: "React JS"
+    },
+    {
+      id: 8,
       src: dataSektoral,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 7,
+      id: 9,
       src: sikm,
       be: "PHP",
-      fe: "Bootstrap"
+      fe: "React JS"
     },
     {
-      id: 8,
+      id: 10,
       src: dprd,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 9,
+      id: 11,
       src: setda,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 10,
+      id: 12,
       src: kesbangpol,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 11,
+      id: 13,
       src: ppid,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 12,
+      id: 14,
       src: sitanda,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 13,
+      id: 15,
       src: eplanning,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 14,
+      id: 16,
       src: emusrenbang,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 15,
+      id: 17,
       src: ebudgeting,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 16,
+      id: 18,
       src: rspa,
       be: "PHP",
       fe: "Bootstrap"
     },
     {
-      id: 16,
+      id: 19,
       src: pertamina,
       be: "PHP",
       fe: "Bootstrap"
