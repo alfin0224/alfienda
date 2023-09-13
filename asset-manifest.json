@@ -1,14 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.70dec420.css",
-    "main.js": "/static/js/main.f4ee0cac.js",
+    "main.js": "/static/js/main.3b627022.js",
     "static/media/postgresql.png": "/static/media/postgresql.1b904635aedb7c19150d.png",
     "static/media/heroImage.jpg": "/static/media/heroImage.97b4e1e6045e6de888ec.jpg",
     "static/media/dprd-porto.png": "/static/media/dprd-porto.b64b88741c5f25a04a9a.png",
     "static/media/rspa-porto.png": "/static/media/rspa-porto.cf2268fee7eb8ed189d7.png",
     "static/media/e-musrenbang-porto.png": "/static/media/e-musrenbang-porto.87f1d278204f80e0c4ee.png",
     "static/media/netlify.png": "/static/media/netlify.257194591bbfe3cb0e81.png",
+    "static/media/e-catalog.jpg": "/static/media/e-catalog.a042129019bce28de6ac.jpg",
     "static/media/sniper-porto.png": "/static/media/sniper-porto.dea02a04fec36f35c48b.png",
+    "static/media/potensial-village.jpg": "/static/media/potensial-village.764975e054a98073de17.jpg",
     "static/media/kesbangpol-porto.png": "/static/media/kesbangpol-porto.55d6bea2ac24b7554a87.png",
     "static/media/sefeo-porto.png": "/static/media/sefeo-porto.04aa0789acaaab122b6c.png",
     "static/media/setda-porto.png": "/static/media/setda-porto.964222c95eda0fbec6c4.png",
@@ -43,10 +45,10 @@
     "static/media/expressjs.png": "/static/media/expressjs.8f912e6eff277ae16489.png",
     "index.html": "/index.html",
     "main.70dec420.css.map": "/static/css/main.70dec420.css.map",
-    "main.f4ee0cac.js.map": "/static/js/main.f4ee0cac.js.map"
+    "main.3b627022.js.map": "/static/js/main.3b627022.js.map"
   },
   "entrypoints": [
     "static/css/main.70dec420.css",
-    "static/js/main.f4ee0cac.js"
+    "static/js/main.3b627022.js"
   ]
 }
