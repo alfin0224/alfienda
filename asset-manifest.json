@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.70dec420.css",
-    "main.js": "/static/js/main.3b627022.js",
+    "main.css": "/static/css/main.c2342dc0.css",
+    "main.js": "/static/js/main.59856aed.js",
     "static/media/postgresql.png": "/static/media/postgresql.1b904635aedb7c19150d.png",
     "static/media/heroImage.jpg": "/static/media/heroImage.97b4e1e6045e6de888ec.jpg",
     "static/media/dprd-porto.png": "/static/media/dprd-porto.b64b88741c5f25a04a9a.png",
@@ -40,15 +40,17 @@
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/rabbitmq-logo.png": "/static/media/rabbitmq-logo.785fb1ab5061e566b5b4.png",
+    "static/media/redis-logo.png": "/static/media/redis-logo.52a85440d0cb10638fe8.png",
     "static/media/mysql.png": "/static/media/mysql.4676ad983d6bd3e9fac9.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/expressjs.png": "/static/media/expressjs.8f912e6eff277ae16489.png",
     "index.html": "/index.html",
-    "main.70dec420.css.map": "/static/css/main.70dec420.css.map",
-    "main.3b627022.js.map": "/static/js/main.3b627022.js.map"
+    "main.c2342dc0.css.map": "/static/css/main.c2342dc0.css.map",
+    "main.59856aed.js.map": "/static/js/main.59856aed.js.map"
   },
   "entrypoints": [
-    "static/css/main.70dec420.css",
-    "static/js/main.3b627022.js"
+    "static/css/main.c2342dc0.css",
+    "static/js/main.59856aed.js"
   ]
 }
