@@ -22,6 +22,8 @@ import nestjs from "../assets/nestjs.png";
 import heroku from "../assets/heroku.png";
 import netlify from "../assets/netlify.png";
 import railway from "../assets/railway-logo.png";
+import rabbitmq from "../assets/rabbitmq-logo.png";
+import redis from "../assets/redis-logo.png";
 
 const Experience = () => {
   const techs = [
@@ -163,6 +165,18 @@ const Experience = () => {
       src: railway,
       title: "Railway",
       style: "shadow-gray-400",
+    },
+    {
+      id: 24,
+      src: rabbitmq,
+      title: "RabbitMQ",
+      style: "shadow-orange-800",
+    },
+    {
+      id: 25,
+      src: redis,
+      title: "Redis",
+      style: "shadow-red-800",
     },
   ];
 
