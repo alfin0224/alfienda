@@ -38,25 +38,25 @@ const Portfolio = () => {
     {
       id: 3,
       src: bumdes,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "Nest JS",
+      fe: "React JS"
     },
     {
       id: 4,
       src: sniper,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "Nest JS",
+      fe: "React JS"
     },
     {
       id: 5,
       src: digitalOffice,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "Laravel",
+      fe: "HTML5/CSS"
     },
     {
       id: 6,
       src: sikampung,
-      be: "PHP",
+      be: "Laravel",
       fe: "Vue JS"
     },
     {
@@ -68,74 +68,74 @@ const Portfolio = () => {
     {
       id: 8,
       src: dataSektoral,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "Laravel",
+      fe: "React JS"
     },
     {
       id: 9,
       src: sikm,
-      be: "PHP",
+      be: "Laravel",
       fe: "React JS"
     },
     {
       id: 10,
       src: dprd,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "CodeIgniter",
+      fe: "HTML5/CSS"
     },
     {
       id: 11,
       src: setda,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "CodeIgniter",
+      fe: "HTML5/CSS"
     },
     {
       id: 12,
       src: kesbangpol,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "CodeIgniter",
+      fe: "HTML5/CSS"
     },
     {
       id: 13,
       src: ppid,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "CodeIgniter",
+      fe: "HTML5/CSS"
     },
     {
       id: 14,
       src: sitanda,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "CodeIgniter",
+      fe: "HTML5/CSS"
     },
     {
       id: 15,
       src: eplanning,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "Laravel",
+      fe: "Vue JS"
     },
     {
       id: 16,
       src: emusrenbang,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "Laravel",
+      fe: "Vue JS"
     },
     {
       id: 17,
       src: ebudgeting,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "Laravel",
+      fe: "Vue JS"
     },
     {
       id: 18,
       src: rspa,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "CodeIgniter",
+      fe: "HTML5/CSS"
     },
     {
       id: 19,
       src: pertamina,
-      be: "PHP",
-      fe: "Bootstrap"
+      be: "CodeIgniter",
+      fe: "HTML5/CSS"
     },
   ];
 
@@ -161,8 +161,8 @@ const Portfolio = () => {
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-              <span className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" rel="noreferrer">{be}</span>
-              <span className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105" rel="noreferrer">{fe}</span>
+              <span className="w-1/2 px-2 py-4 m-3 duration-200 hover:scale-105" rel="noreferrer">{be}</span>
+              <span className="w-1/2 px-2 py-4 m-3 duration-200 hover:scale-105" rel="noreferrer">{fe}</span>
               </div>
             </div>
           ))}

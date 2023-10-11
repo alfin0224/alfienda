@@ -20,7 +20,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-        &nbsp; &nbsp; &nbsp; I have 2 years and 7 months of work experience at KOMINFO West Papua Province as a web developer. After that, I worked remotely as a web developer for 1 year at DPMK West Papua Province. From early 2023 to June 2023, I helped develop web applications used for advertising media, managing membership data, and programming data for learning activities in the Sefeo English community as a Fullstack Developer.
+        &nbsp; &nbsp; &nbsp; I have 5 months of internship experience at PT. BINTANG KOMUNIKASI UTAMA as a Full Stack Developer. Then, I have 3 months of internship experience at PT. PERTAMINA RU IV Cilacap as a Full Stack Developer. After That, I have 6 months of freelance project work experience at RSPA Buah Hati as a Full Stack Developer. And after graduated from college, I have 3 years of work experience at KOMINFO West Papua Province as a web developer. After that, I worked hybrid as a Full Stack Developer for 1 year at DPMK West Papua Province. From early 2023 to September 2023, I developed web applications used for advertising media, managing membership data, and programming data for learning activities in the Sefeo English community as a Fullstack Developer.
           </p>
         <br />
 
